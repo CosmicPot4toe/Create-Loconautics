@@ -1,5 +1,4 @@
 {
-  "replace": false,
   "values": [
     "loconautics:white_dashboard",
     "loconautics:orange_dashboard",
@@ -17,7 +16,6 @@
     "loconautics:green_dashboard",
     "loconautics:red_dashboard",
     "loconautics:black_dashboard",
-
     "loconautics:amber_dashboard",
     "loconautics:aqua_dashboard",
     "loconautics:beige_dashboard",
@@ -33,6 +31,6 @@
     "loconautics:slate_dashboard",
     "loconautics:tan_dashboard",
     "loconautics:teal_dashboard",
-    "loconautics:verdant_dashboard",
+    "loconautics:verdant_dashboard"
   ]
 }
